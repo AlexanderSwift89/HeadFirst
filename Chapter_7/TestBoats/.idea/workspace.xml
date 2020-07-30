@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9dc86f0-2f1c-46b1-81eb-fe55f4cf7131" name="Default Changelist" comment="" />
+    <list default="true" id="c9dc86f0-2f1c-46b1-81eb-fe55f4cf7131" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Of76/Of76.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Of76/src/Acts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Of76/src/Clowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Of76/src/Nose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Of76/src/Of76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Of76/src/Picasso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1fBF7331PPSwVtFkueoA1kamZcC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -96,5 +110,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595684204319" />
+    <state x="65" y="0" key="new project wizard" timestamp="1596096879404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1596096879404" />
   </component>
 </project>
