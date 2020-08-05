@@ -1,6 +1,7 @@
 public class SimUnit {
     String botType;
     SimUnit (String type){
+        System.out.println("Создался объект " + type);
         botType = type;
     }
     int powerUse(){
